@@ -1,5 +1,5 @@
 {
-  "name": "FlexFit",
+  "name": "flexfit",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,9 +35,9 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://alejandromontalvo.github.io/FlexFit"
+    ]
   },
+  "homepage": "https://alejandromontalvo.github.io/FlexFit",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
